@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "JK Rowling accuses Labour of abandoning women over trans rights",
+            "description": "Labour says it is \"the party of women's equality\" after the author criticises Sir Keir Starmer on trans rights.",
+            "url": "https://www.bbc.co.uk/news/articles/cndd65k06x8o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2220/live/8e28ac90-3072-11ef-9ad3-ffd01cca2d96.jpg",
+            "publishedAt": "2024-06-22T16:22:14.0941348Z",
+            "content": "Rowling also accused Sir Keir Starmer of offering no support to Rosie Duffield over the threats and abuse she has received \"some of which has originated from within the Labour Party itself\".\r\nLast we… [+1107 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Israeli air strikes on Gaza City kill dozens, Hamas says",
+            "description": "Two attacks on what Israel describes as Hamas infrastructure killed 42 people, the Palestinian group says.",
+            "url": "https://www.bbc.co.uk/news/articles/ckddq2y58g1o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/36d5/live/c7618ec0-3093-11ef-b730-ffbfe2da794c.jpg",
+            "publishedAt": "2024-06-22T15:52:13.7336272Z",
+            "content": "Earlier reports put the estimated death toll at 42.\r\nIsrael launched a campaign to destroy Hamas in response to an unprecedented attack on southern Israel on 7 October, during which about 1,200 peopl… [+365 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Bangladesh reels from surge in snake bites",
+            "description": "The health minister orders hospitals to stock anti-venom after a wave of deadly bites in rural areas.",
+            "url": "https://www.bbc.co.uk/news/articles/ck55keekpljo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7630/live/8f65ef10-3094-11ef-b730-ffbfe2da794c.jpg",
+            "publishedAt": "2024-06-22T15:37:09.4538136Z",
+            "content": "All health centres and hospitals in Bangladesh have been ordered to stock anti-venom after reports of a surge in snake bites across the country.\r\nHealth Minister Dr Samanta Lal Sen also urged the pub… [+997 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Penile cancer: 6,500 amputations in Brazil in a decade",
+            "description": "\"It's something you never imagine will happen to you,\" says João, 63, who under went a partial amputation.",
+            "url": "https://www.bbc.co.uk/news/articles/c9rr7z5gk62o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f717/live/c8fc37b0-2e3d-11ef-bd63-d150a5caeb00.jpg",
+            "publishedAt": "2024-06-22T15:22:19.8591878Z",
+            "content": "But Brazil is not the only place where penile cancer is on the rise. According to the latest research, the number of cases is increasing around the world.\r\nIn 2022, the journal JMIR Public Health and… [+2466 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Pet donkey found 'living best life' with elk, five years after escape",
+            "description": "A man hiking in the California wilderness has stumbled upon a pet donkey that has been missing for five years.",
+            "url": "https://www.bbc.co.uk/news/articles/cjjje07x35do",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ca88/live/e1ef2a20-3027-11ef-a044-9d4367d5b599.png",
+            "publishedAt": "2024-06-22T15:07:16.312193Z",
+            "content": "A pet donkey that escaped his owners five years ago in California has been found \"living his best life\" with a herd of wild elk.\r\nTerrie and Dave Drewry, of Auburn, are convinced the animal, filmed b… [+1417 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Greece wildfire: Anger after yacht fireworks spark blaze",
+            "description": "The mayor of tourist island Hydra says he will press charges against those who acted \"irresponsibly\" on the yacht.",
+            "url": "https://www.bbc.co.uk/news/articles/c722p1ljlk9o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/af0a/live/b099a600-3093-11ef-b730-ffbfe2da794c.png",
+            "publishedAt": "2024-06-22T14:22:16.4060803Z",
+            "content": "Fireworks launched from a yacht in Greece sparked a forest fire on the island of Hydra on Friday, the local firefighting authority has said.\r\nThe blaze burnt the only pine forest on the tourist islan… [+1626 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Prince William thanks Taylor Swift for 'great evening' at Wembley",
+            "description": "The Prince of Wales celebrated his 42nd birthday at the singer's Wembley gig.",
+            "url": "https://www.bbc.co.uk/news/articles/cgee8qgey2eo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d10b/live/27381500-3092-11ef-b730-ffbfe2da794c.jpg",
+            "publishedAt": "2024-06-22T13:07:20.8275007Z",
+            "content": "The Prince of Wales has thanked pop star Taylor Swift for a \"great evening\" after he was pictured attending her concert in London on Friday night.\r\nIn a post on X, external, formerly Twitter, Kensing… [+443 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Three missing in Swiss floods as Alpine resort Zermatt cut off",
+            "description": "Heavy rain and melting snow leaves Zermatt completely isolated.",
+            "url": "https://www.bbc.co.uk/news/articles/crggyrmd307o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6571/live/3ded93c0-307d-11ef-90be-b75b34b0bbb2.jpg",
+            "publishedAt": "2024-06-22T11:22:12.8117793Z",
+            "content": "Three people are missing after floodwaters swept through the south-eastern Swiss town of Misox in the alpine valley of Graubünden.\r\nA massive thunderstorm on Friday night caused rivers to break their… [+334 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Hawaii Five-0 star Taylor Wily dies aged 56",
+            "description": "The actor had a recurring role as Kamekona Tupuola in the crime drama series.",
+            "url": "https://www.bbc.co.uk/news/articles/c511n5186x2o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d51d/live/5e9c4e20-307a-11ef-9ad3-ffd01cca2d96.jpg",
+            "publishedAt": "2024-06-22T10:52:18.1124197Z",
+            "content": "Actor Taylor Wily, who starred in the reboot of crime drama Hawaii Five-0, has died at the age of 56. \r\nHis entertainment attorney confirmed his death to the BBC's US partner CBS News, external. A ca… [+1557 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Russia launches 'massive' overnight attack on Ukraine power grid",
+            "description": "Several people are wounded after Russia targeted Ukraine's energy network for a second time this week.",
+            "url": "https://www.bbc.co.uk/news/articles/czvvj4j4p8ro",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b97c/live/711f4390-3061-11ef-bdc5-41d7421c2adf.jpg",
+            "publishedAt": "2024-06-22T08:22:15.6742533Z",
+            "content": "In the south-western region of Ivano-Frankivsk, the authorities also reported damage to houses and a kindergarten.\r\nRussia has renewed its campaign of strikes on Ukrainian energy targets over spring … [+1612 chars]"
+        }
+    ]
+}
